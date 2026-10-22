@@ -10,6 +10,7 @@ Atelier is a lightweight Windows application for creating and customizing 3D per
 - **Real-Time 3D Preview** — Instantly visualize your design
 - **Cap Customization** — Experiment with different cap designs and settings
 - **Custom Labels** — Personalize your bottle with names and labels
+- **GLB Export** — Export your 3D bottle models in GLB format for use in compatible 3D software and applications
 - **Save Projects** — Save your designs for future editing
 
 ## Download
