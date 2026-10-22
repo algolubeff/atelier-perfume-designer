@@ -7,7 +7,8 @@ Atelier is a lightweight Windows application for creating and customizing 3D per
 ## Screenshots
 <img width="1920" height="1080" alt="01" src="https://github.com/user-attachments/assets/bd88e3f5-1341-462e-87c1-6f15ab46f3db" />
 <img width="1920" height="1080" alt="02" src="https://github.com/user-attachments/assets/d040d858-ed73-4988-80c3-be028cc6ea5a" />
-<img width="1920" height="1080" alt="03" src="https://github.com/user-attachments/assets/7cdf4f42-d36f-4215-9715-7d1e90bf1df7" />
+<img width="1920" height="1080" alt="03" src="https://github.com/user-attachments/assets/47deb4d9-6186-46d3-918b-266158b4721d" />
+
 
 
 ## Features
