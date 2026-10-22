@@ -22,7 +22,7 @@ Atelier is a lightweight Windows application for creating and customizing 3D per
 
 ## Download
 
-Download the latest version from the **Releases** section of this repository
+[⬇ Download Atelier v0.1.0 Beta (Windows)](https://github.com/algolubeff/atelier-perfume-designer/releases/download/v0.1.0-beta/Atelier-0.1.0-beta-win-x64-portable.exe)
 
 **Current version:** v0.1.0 Beta
 
